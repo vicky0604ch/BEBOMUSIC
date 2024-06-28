@@ -80,11 +80,11 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 # Ge@STRINGSEASO_NBOT2 session from @STRINGSEASO_NBOT
-STRING1 = "BQGB5YMAS4KS5JW__OKSeDnlWx_5E6_faB067BlYGQg94MHoCbSnGAlxw_C92Gd5IOEtBFdQfxn_l54e9w5CrGMm_1qr-N-3mWaQkvT0-XgSBoThgGljIOMzjG_pf_rXPZ5KKnXCnyBIC2zlVK_jb3PKVSs9HEoXfNwrodYT3KkJm66RHAl8IrBzGDvGa0RuyPmURCJgflR9MkYTrF0jcbkcP_W9OWQdQhYm34OF4zbdvDypq47OZLEEgnH9NTbQY9z43D_gul4cjtoCVaFfIjb3Y8lHqt4dJ4pvg5oAAyvXR_oRJdMlhWY0D_KGowizOzzfsNtnbOOLi_g_SNbvqG-kWci6UQAAAAF_SgV8AA"
-STRING2 = getenv("STRING_SESSION2", None)
-STRING3 = getenv("STRING_SESSION3", None)
-STRING4 = getenv("STRING_SESSION4", None)
-STRING5 = getenv("STRING_SESSION5", None)
+STRING1 = ("BQGB5YMAS4KS5JW__OKSeDnlWx_5E6_faB067BlYGQg94MHoCbSnGAlxw_C92Gd5IOEtBFdQfxn_l54e9w5CrGMm_1qr-N-3mWaQkvT0-XgSBoThgGljIOMzjG_pf_rXPZ5KKnXCnyBIC2zlVK_jb3PKVSs9HEoXfNwrodYT3KkJm66RHAl8IrBzGDvGa0RuyPmURCJgflR9MkYTrF0jcbkcP_W9OWQdQhYm34OF4zbdvDypq47OZLEEgnH9NTbQY9z43D_gul4cjtoCVaFfIjb3Y8lHqt4dJ4pvg5oAAyvXR_oRJdMlhWY0D_KGowizOzzfsNtnbOOLi_g_SNbvqG-kWci6UQAAAAF_SgV8AA")
+#STRING2 = getenv("STRING_SESSION2", None)
+#STRING3 = getenv("STRING_SESSION3", None)
+#STRING4 = getenv("STRING_SESSION4", None)
+#STRING5 = getenv("STRING_SESSION5", None)
 AMBOT = [
     "𝐒𝐄𝐀𝐑𝐂𝐇𝐈𝐍𝐆 𝐓𝐇𝐄 𝐒𝐎𝐍𝐆 𝐑𝐀𝐉𝐀 𝐉𝐈 ✨✨",
     "𝐕𝐂 𝐃𝐄𝐊𝐇𝐎  𝐒𝐓𝐀𝐑𝐓 𝐇𝐎𝐆𝐘𝐀 𝐒𝐎𝐍𝐆🎧🎧",
