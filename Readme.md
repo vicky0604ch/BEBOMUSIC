@@ -7,7 +7,7 @@
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋PAKHI+VICKY+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
-<p align="center"><img src="https://graph.org/file/5f25e7be3d5ae407d8593.jpg" width="800"></a></p>
+<p align="center"><img src="https://telegra.ph/file/7ac89aca7baea060696fa.jpg" width="600" height="100%"></a></p>
 
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=840&lines=✨+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒+𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+✨"></b>
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=WHITE&width=620&lines=✨+𝓑𝓨+𝓥𝓘𝓒𝓚𝓨+𝓒𝓗𝓞𝓤𝓓𝓗𝓐𝓡𝓨+✨+"></b>
