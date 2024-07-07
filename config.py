@@ -7,10 +7,10 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps.
-API_ID = int(("25290115"))
-API_HASH = getenv("bf26c3b91fe2f640d81de95db56dc5bf")
+API_ID = int(getenv("API_ID", "20064905"))
+API_HASH = getenv("API_HASH", "1d7b8bc02a512bfbf2014bd7d5b7eff2")
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("6858692873:AAE2bT1z3tnBEKRhFigCUPfb5nvcyNuK8No")
+BOT_TOKEN = getenv("BOT_TOKEN","7328867796:AAGsdKH9eZ8wkcqiPm9G-fYEz2mFqtqMy6g")
 # Add Owner Username without @ 
 OWNER_USERNAME = getenv("OWNER_USERNAME","VICKY_CHOUDHARY_1203")
 # Get Your bot username
@@ -21,7 +21,7 @@ BOT_NAME = getenv("BOT_NAME" , "𝐏αкнι ✗ ɱυѕιƈ, 🎶 [ᴠ ᴘ]")
 ASSUSERNAME = getenv("ASSUSERNAME" , "GUPP_SHUP_ASSTANT")
 EVALOP = list(map(int, getenv("EVALOP", "7001982096").split()))
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("mongodb+srv://DxLEGEND143:DxLEGEND143@dxlegend.oztipqk.mongodb.net/?retryWrites=true&w=majority&appName=DxLEGEND")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Vicky123:Vicky123@cluster0.qznmdso.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
@@ -31,7 +31,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002136795173))
 # ------------------------------------------------
 GPT_API = getenv("GPT_API")
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6828153648))
+OWNER_ID = int(getenv("OWNER_ID", 7001982096))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,7 +41,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vicky0604hello/PAKHI_MUSIC-X-BOT",
+    "https://github.com/vicky0604ch/BEBOMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -80,7 +80,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 # Ge@STRINGSEASO_NBOT2 session from @STRINGSEASO_NBOT
-STRING1 = ("BQGB5YMAS4KS5JW__OKSeDnlWx_5E6_faB067BlYGQg94MHoCbSnGAlxw_C92Gd5IOEtBFdQfxn_l54e9w5CrGMm_1qr-N-3mWaQkvT0-XgSBoThgGljIOMzjG_pf_rXPZ5KKnXCnyBIC2zlVK_jb3PKVSs9HEoXfNwrodYT3KkJm66RHAl8IrBzGDvGa0RuyPmURCJgflR9MkYTrF0jcbkcP_W9OWQdQhYm34OF4zbdvDypq47OZLEEgnH9NTbQY9z43D_gul4cjtoCVaFfIjb3Y8lHqt4dJ4pvg5oAAyvXR_oRJdMlhWY0D_KGowizOzzfsNtnbOOLi_g_SNbvqG-kWci6UQAAAAF_SgV8AA")
+STRING1 = getenv("STRING_SESSION", "BQEyKokAjIBi-Lrx69SO5CFbokPVDlsgs8zPb3qWc0t7sFh_OwYYJsoZY-1KHidi1Hl7z4yjk5FKxDcXclJ_750s5iuX7MsfHx0M_DgLzaIp8GuGE88jklvw_v9xDRMoJr2H6i1tZtuR5Zp9z4kE-X8S2slt2KA3TbRDzb3y468Dyevxv05Jj8vnUxJ2qkyA-Cb5ivjZhpcGr9cSMp1M0xBYDZv3zKAChJpxZwzy-0RztkAcqWygnfdaGfAJNCSAnsy8BTi08-SFyhVVB0_jYKuQPtYvDoJF-shVBWOg34LLCRJ9jlcsA5_7LkZMSo4ixeQlhRBu-OJkPclARS7ADZ_uLcc6oQAAAAGUZPvYAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
